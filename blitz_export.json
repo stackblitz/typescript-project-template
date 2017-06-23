@@ -1,4 +1,4 @@
 {
 "htmlTemplate": "public/index.html",
-"projectFolder: "src"
+"exportProjectTo": "src"
 }
