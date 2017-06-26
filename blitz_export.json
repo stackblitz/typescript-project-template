@@ -1,4 +1,8 @@
 {
 "htmlTemplate": "public/index.html",
-"exportProjectTo": "src"
+"exportProjectTo": "src/app",
+"map": {
+  "polyfills.ts": "src/polyfills.ts"
+},
+"ignore": ["readme.md"]
 }
